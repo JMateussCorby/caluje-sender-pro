@@ -1,0 +1,339 @@
+2025-04-19 02:30:05,658 - INFO - Arquivo carregado: C:/Users/pjota/OneDrive/Área de Trabalho/CalujeSender/modelo_contatos.xlsx com 2 contatos
+2025-04-19 02:30:26,286 - INFO - Atendente adicionado: Mateus
+2025-04-19 02:31:15,759 - INFO - Mensagem enviada para 24999085430 (Mateus)
+2025-04-19 02:31:25,516 - INFO - Mensagem enviada para 24999849127 (Mãe)
+2025-04-19 02:31:49,867 - INFO - Processo concluído - Enviadas: 2, Erros: 0
+2025-04-19 04:12:08,555 - INFO - Arquivo carregado: C:/Users/pjota/OneDrive/Área de Trabalho/CalujeSender/modelo_contatos.xlsx com 2 contatos
+2025-04-19 04:12:18,250 - INFO - Atendente adicionado: Mateus
+2025-04-19 04:19:57,369 - INFO - Atendente adicionado: Lorrani
+2025-04-19 04:20:05,781 - INFO - Atendente adicionado: Vitoria
+2025-04-19 04:20:11,360 - INFO - Atendente adicionado: Vanuza
+2025-04-19 04:20:16,851 - INFO - Arquivo carregado: C:/Users/pjota/OneDrive/Área de Trabalho/CalujeSender/modelo_contatos.xlsx com 2 contatos
+2025-04-19 04:21:21,403 - INFO - Mensagem enviada para 24999085430 (Mateus)
+2025-04-19 04:21:31,303 - INFO - Mensagem enviada para 24999849127 (Mãe)
+2025-04-19 04:21:49,201 - INFO - Processo concluído - Enviadas: 2, Erros: 0
+2025-04-19 04:41:05,482 - INFO - Arquivo carregado: C:/Users/pjota/Downloads/conversas_chatbot.xlsx com 79 contatos
+2025-04-19 05:02:58,603 - INFO - Atendente 'Lorrani' adicionado
+2025-04-19 05:03:07,014 - INFO - Atendente 'Mateus' adicionado
+2025-04-19 05:03:52,626 - INFO - Atendente adicionado: Lorrani
+2025-04-19 05:03:58,092 - INFO - Atendente adicionado: Vitoria
+2025-04-19 12:10:13,750 - INFO - Arquivo carregado: C:/Users/pjota/OneDrive/Área de Trabalho/CalujeSender/modelo_contatos.xlsx com 2 contatos
+2025-04-19 12:10:26,355 - INFO - Atendente adicionado: Vanuza
+2025-04-19 13:57:07,420 - INFO - Arquivo carregado: C:/Users/pjota/OneDrive/Área de Trabalho/CalujeSender/modelo_contatos.xlsx com 2 contatos
+2025-04-19 13:57:19,816 - INFO - Atendente adicionado: Lorrani
+2025-04-19 14:13:27,367 - ERROR - Erro ao enviar para 24999085430: HTTPConnectionPool(host='localhost', port=63103): Read timed out. (read timeout=120)
+2025-04-19 14:13:47,430 - ERROR - Erro ao enviar para 24999849127: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF62641EE65+16773]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF62637F130+402672]
+	(No symbol) [0x00007FF62616BAB0]
+	(No symbol) [0x00007FF6261ABDB3]
+	(No symbol) [0x00007FF6261D8D92]
+	(No symbol) [0x00007FF62618481B]
+	(No symbol) [0x00007FF6261D59AE]
+	(No symbol) [0x00007FF6261D50A8]
+	(No symbol) [0x00007FF626142CF5]
+	(No symbol) [0x00007FF6262A060D]
+	(No symbol) [0x00007FF6262AD642]
+	(No symbol) [0x00007FF6262A5673]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6264F9BAA+265882]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF62638C581+457025]
+	(No symbol) [0x00007FF626141827]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6266285E8+1505496]
+	BaseThreadInitThunk [0x00007FF8C121257D+29]
+	RtlUserThreadStart [0x00007FF8C2FCAF08+40]
+
+2025-04-19 16:32:06,020 - INFO - Processo concluído - Enviadas: 0, Erros: 2
+2025-04-19 16:32:41,579 - INFO - Arquivo carregado: C:/Users/pjota/OneDrive/Área de Trabalho/CalujeSender/modelo_contatos.xlsx com 2 contatos
+2025-04-19 16:32:54,155 - INFO - Atendente adicionado: Lorrani
+2025-04-19 16:33:50,889 - ERROR - Erro ao enviar para 24999085430: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF77C11EE65+16773]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF77C07F130+402672]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF77C374BDA+1818314]
+	(No symbol) [0x00007FF77BEB7B86]
+	(No symbol) [0x00007FF77BEB7E6B]
+	(No symbol) [0x00007FF77BEF8C77]
+	(No symbol) [0x00007FF77BED8F0F]
+	(No symbol) [0x00007FF77BEADF8D]
+	(No symbol) [0x00007FF77BEF6658]
+	(No symbol) [0x00007FF77BED8C33]
+	(No symbol) [0x00007FF77BEAD4D6]
+	(No symbol) [0x00007FF77BEACA82]
+	(No symbol) [0x00007FF77BEAD303]
+	(No symbol) [0x00007FF77BFA060D]
+	(No symbol) [0x00007FF77BFAD642]
+	(No symbol) [0x00007FF77BFA5673]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF77C1F9BAA+265882]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF77C08C581+457025]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF77C085834+429044]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF77C085983+429379]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF77C077486+370758]
+	BaseThreadInitThunk [0x00007FF8C121257D+29]
+	RtlUserThreadStart [0x00007FF8C2FCAF08+40]
+
+2025-04-19 16:59:20,380 - ERROR - Erro ao enviar para 24999849127: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: MicrosoftEdge=135.0.3179.73)
+Stacktrace:
+	GetHandleVerifier [0x00007FF77C11EE65+16773]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF77C07F130+402672]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF77C374BDA+1818314]
+	(No symbol) [0x00007FF77BE5B880]
+	(No symbol) [0x00007FF77BE7A19A]
+	(No symbol) [0x00007FF77BEDEB96]
+	(No symbol) [0x00007FF77BEF605A]
+	(No symbol) [0x00007FF77BED8C33]
+	(No symbol) [0x00007FF77BEAD4D6]
+	(No symbol) [0x00007FF77BEACA82]
+	(No symbol) [0x00007FF77BEAD303]
+	(No symbol) [0x00007FF77BFA060D]
+	(No symbol) [0x00007FF77BFAD642]
+	(No symbol) [0x00007FF77BFA5673]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF77C1F9BAA+265882]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF77C08C581+457025]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF77C085834+429044]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF77C085983+429379]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF77C077486+370758]
+	BaseThreadInitThunk [0x00007FF8C121257D+29]
+	RtlUserThreadStart [0x00007FF8C2FCAF08+40]
+
+2025-04-19 18:05:12,766 - INFO - Processo concluído - Enviadas: 0, Erros: 2
+2025-04-19 21:37:37,776 - INFO - Arquivo carregado: C:/Users/pjota/OneDrive/Área de Trabalho/CalujeSender/modelo_contatos.xlsx com 2 contatos
+2025-04-19 21:38:02,360 - INFO - Atendente adicionado: Lorrani
+2025-04-19 21:38:30,554 - INFO - Atendente adicionado: Vitoria
+2025-04-19 21:38:37,480 - INFO - Atendente adicionado: Alexandre
+2025-04-19 21:40:52,523 - INFO - Arquivo carregado: C:/Users/pjota/OneDrive/Área de Trabalho/CalujeSender/modelo_contatos.xlsx com 2 contatos
+2025-04-19 21:41:06,875 - INFO - Atendente adicionado: Mateus
+2025-04-19 21:41:16,137 - INFO - Aguardando login no WhatsApp Web...
+2025-04-19 21:58:08,748 - INFO - Arquivo carregado: C:/Users/pjota/OneDrive/Área de Trabalho/CalujeSender/Check-in 23 de abril.xlsx com 66 contatos
+2025-04-19 21:58:47,375 - INFO - Arquivo carregado: C:/Users/pjota/OneDrive/Área de Trabalho/CalujeSender/Check-in 23 de abril.xlsx com 66 contatos
+2025-04-19 21:59:08,443 - INFO - Atendente adicionado: Maria
+2025-04-19 21:59:19,255 - INFO - Aguardando login no WhatsApp Web...
+2025-04-19 21:59:31,612 - INFO - Iniciando envio de mensagens...
+2025-04-19 21:59:31,625 - WARNING - Número inválido: 55219823135160 - Pular contato
+2025-04-19 21:59:31,635 - WARNING - Número inválido: 55219823135160 - Pular contato
+2025-04-19 21:59:31,646 - WARNING - Número inválido: 55219823135160 - Pular contato
+2025-04-19 21:59:31,655 - WARNING - Número inválido: 55219810735270 - Pular contato
+2025-04-19 21:59:31,665 - WARNING - Número inválido: 55219953870220 - Pular contato
+2025-04-19 21:59:31,677 - WARNING - Número inválido: 55219853684160 - Pular contato
+2025-04-19 21:59:31,687 - WARNING - Número inválido: 55219953327160 - Pular contato
+2025-04-19 21:59:31,699 - WARNING - Número inválido: 55219824712840 - Pular contato
+2025-04-19 21:59:31,711 - WARNING - Número inválido: 55219981194090 - Pular contato
+2025-04-19 21:59:31,722 - WARNING - Número inválido: 55219689331550 - Pular contato
+2025-04-19 21:59:31,738 - WARNING - Número inválido: 55219953103480 - Pular contato
+2025-04-19 21:59:31,752 - WARNING - Número inválido: 55219716306810 - Pular contato
+2025-04-19 21:59:31,764 - WARNING - Número inválido: 55219824334320 - Pular contato
+2025-04-19 21:59:31,778 - WARNING - Número inválido: 55229960517600 - Pular contato
+2025-04-19 21:59:31,794 - WARNING - Número inválido: 55219832045310 - Pular contato
+2025-04-19 21:59:31,811 - WARNING - Número inválido: 55219984499340 - Pular contato
+2025-04-19 21:59:31,826 - WARNING - Número inválido: 55219967714540 - Pular contato
+2025-04-19 21:59:31,842 - WARNING - Número inválido: 55219702436130 - Pular contato
+2025-04-19 21:59:31,856 - WARNING - Número inválido: 55219718376810 - Pular contato
+2025-04-19 21:59:31,870 - WARNING - Número inválido: 55219718376810 - Pular contato
+2025-04-19 21:59:31,883 - WARNING - Número inválido: 55219718376810 - Pular contato
+2025-04-19 21:59:31,897 - WARNING - Número inválido: 55219740494400 - Pular contato
+2025-04-19 21:59:31,912 - WARNING - Número inválido: 55219740494400 - Pular contato
+2025-04-19 21:59:31,926 - WARNING - Número inválido: 55219740494400 - Pular contato
+2025-04-19 21:59:31,941 - WARNING - Número inválido: 55219834760660 - Pular contato
+2025-04-19 21:59:31,957 - WARNING - Número inválido: 55219867690150 - Pular contato
+2025-04-19 21:59:31,984 - WARNING - Número inválido: 55219810735270 - Pular contato
+2025-04-19 21:59:32,002 - WARNING - Número inválido: 55219953870220 - Pular contato
+2025-04-19 21:59:32,019 - WARNING - Número inválido: 55219853684160 - Pular contato
+2025-04-19 21:59:32,037 - WARNING - Número inválido: 55219953327160 - Pular contato
+2025-04-19 21:59:32,054 - WARNING - Número inválido: 55219810735270 - Pular contato
+2025-04-19 21:59:32,071 - WARNING - Número inválido: 55219953870220 - Pular contato
+2025-04-19 21:59:32,089 - WARNING - Número inválido: 55219853684160 - Pular contato
+2025-04-19 21:59:32,105 - WARNING - Número inválido: 55219953327160 - Pular contato
+2025-04-19 21:59:32,123 - WARNING - Número inválido:  - Pular contato
+2025-04-19 21:59:32,139 - WARNING - Número inválido:  - Pular contato
+2025-04-19 21:59:32,157 - WARNING - Número inválido:  - Pular contato
+2025-04-19 21:59:32,172 - WARNING - Número inválido:  - Pular contato
+2025-04-19 21:59:32,188 - WARNING - Número inválido:  - Pular contato
+2025-04-19 21:59:32,205 - WARNING - Número inválido:  - Pular contato
+2025-04-19 21:59:32,221 - WARNING - Número inválido:  - Pular contato
+2025-04-19 21:59:32,236 - WARNING - Número inválido:  - Pular contato
+2025-04-19 21:59:32,252 - WARNING - Número inválido:  - Pular contato
+2025-04-19 21:59:32,269 - WARNING - Número inválido:  - Pular contato
+2025-04-19 21:59:32,288 - WARNING - Número inválido:  - Pular contato
+2025-04-19 21:59:32,302 - WARNING - Número inválido:  - Pular contato
+2025-04-19 21:59:32,321 - WARNING - Número inválido:  - Pular contato
+2025-04-19 21:59:32,338 - WARNING - Número inválido:  - Pular contato
+2025-04-19 21:59:32,356 - WARNING - Número inválido:  - Pular contato
+2025-04-19 21:59:32,372 - WARNING - Número inválido:  - Pular contato
+2025-04-19 21:59:32,389 - WARNING - Número inválido:  - Pular contato
+2025-04-19 21:59:32,405 - WARNING - Número inválido:  - Pular contato
+2025-04-19 21:59:32,422 - WARNING - Número inválido:  - Pular contato
+2025-04-19 21:59:32,439 - WARNING - Número inválido:  - Pular contato
+2025-04-19 21:59:32,454 - WARNING - Número inválido:  - Pular contato
+2025-04-19 21:59:32,471 - WARNING - Número inválido:  - Pular contato
+2025-04-19 21:59:32,489 - WARNING - Número inválido:  - Pular contato
+2025-04-19 21:59:32,505 - WARNING - Número inválido:  - Pular contato
+2025-04-19 21:59:32,521 - WARNING - Número inválido:  - Pular contato
+2025-04-19 21:59:32,538 - WARNING - Número inválido:  - Pular contato
+2025-04-19 21:59:32,555 - WARNING - Número inválido:  - Pular contato
+2025-04-19 21:59:32,570 - WARNING - Número inválido:  - Pular contato
+2025-04-19 21:59:32,587 - WARNING - Número inválido:  - Pular contato
+2025-04-19 21:59:32,605 - WARNING - Número inválido:  - Pular contato
+2025-04-19 21:59:32,623 - WARNING - Número inválido:  - Pular contato
+2025-04-19 21:59:32,639 - WARNING - Número inválido:  - Pular contato
+2025-04-19 21:59:34,812 - INFO - Processo concluído - Enviadas: 0, Erros: 66
+2025-04-19 22:12:12,340 - INFO - Arquivo carregado: C:/Users/pjota/OneDrive/Área de Trabalho/CalujeSender/modelo_contatos.xlsx com 2 contatos
+2025-04-19 22:12:34,270 - INFO - Atendente adicionado: Mateus
+2025-04-19 22:13:11,084 - INFO - Aguardando login no WhatsApp Web...
+2025-04-19 22:13:31,469 - INFO - Iniciando envio de mensagens...
+2025-04-19 22:13:37,696 - INFO - Mensagem enviada para 24999085430 (Mateus)
+2025-04-19 22:13:47,095 - INFO - Mensagem enviada para 24999849127 (Mãe)
+2025-04-19 22:13:52,300 - INFO - Processo concluído - Enviadas: 2, Erros: 0
+2025-04-19 22:55:57,810 - INFO - Atendente adicionado: Mateus
+2025-04-20 17:31:23,033 - INFO - Arquivo carregado: C:/Users/pjota/OneDrive/Área de Trabalho/CalujeSender/modelo_contatos.xlsx com 2 contatos
+2025-04-20 17:34:26,322 - INFO - Arquivo carregado: C:/Users/pjota/OneDrive/Área de Trabalho/CalujeSender/modelo_contatos.xlsx com 2 contatos
+2025-04-20 17:34:36,206 - INFO - Aguardando login no WhatsApp Web...
+2025-04-20 17:35:19,044 - INFO - Iniciando envio de mensagens...
+2025-04-20 17:35:25,183 - INFO - Mensagem enviada para 24999085430 (Mateus)
+2025-04-20 17:35:37,581 - INFO - Mensagem enviada para 24999849127 (Mãe)
+2025-04-20 17:35:42,818 - INFO - Processo concluído - Enviadas: 2, Erros: 0
+2025-04-20 18:43:36,482 - INFO - Arquivo carregado: C:/Users/pjota/OneDrive/Área de Trabalho/CalujeSender/modelo_contatos.xlsx com 2 contatos
+2025-04-20 19:42:50,385 - ERROR - Erro ao carregar dados: Expecting property name enclosed in double quotes: line 4 column 87 (char 122)
+2025-04-20 19:43:36,976 - ERROR - Erro ao carregar dados: Expecting value: line 1 column 1 (char 0)
+2025-04-20 19:49:26,644 - ERROR - Erro ao carregar dados: Expecting value: line 1 column 1 (char 0)
+2025-04-20 19:50:21,890 - ERROR - Erro ao carregar dados: Expecting value: line 1 column 1 (char 0)
+2025-04-20 20:34:07,311 - INFO - Usuário Mateus logado com sucesso
+2025-04-20 20:35:06,044 - INFO - Aguardando login no WhatsApp Web...
+2025-04-20 20:35:35,896 - INFO - Iniciando envio de mensagens...
+2025-04-20 20:35:37,873 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-04-20 20:35:38,903 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-04-20 20:35:40,627 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-04-20 20:35:41,415 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-04-20 20:35:43,484 - INFO - Mensagem enviada para 24999085430 (Mateus)
+2025-04-20 20:35:43,776 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-04-21 21:45:59,691 - ERROR - Request was failed with status code: 401. Data: 
+2025-04-21 21:50:11,783 - ERROR - Request was failed with status code: 401. Data: 
+2025-04-21 21:59:02,967 - INFO - Arquivo carregado: C:/Users/pjota/OneDrive/Área de Trabalho/CalujeSender/Check-in 23 de abril.xlsx com 66 contatos
+2025-04-21 21:59:44,744 - INFO - Arquivo carregado: C:/Users/pjota/OneDrive/Área de Trabalho/CalujeSender/Check-in 23 de abril.xlsx com 66 contatos
+2025-04-21 21:59:55,346 - INFO - Aguardando login no WhatsApp Web...
+2025-04-21 22:00:08,494 - INFO - Iniciando envio de mensagens...
+2025-04-21 22:00:08,501 - WARNING - Número inválido: 55219823135160 - Pular contato
+2025-04-21 22:00:08,510 - WARNING - Número inválido: 55219823135160 - Pular contato
+2025-04-21 22:00:08,519 - WARNING - Número inválido: 55219823135160 - Pular contato
+2025-04-21 22:00:08,529 - WARNING - Número inválido: 55219810735270 - Pular contato
+2025-04-21 22:00:08,538 - WARNING - Número inválido: 55219953870220 - Pular contato
+2025-04-21 22:00:08,546 - WARNING - Número inválido: 55219853684160 - Pular contato
+2025-04-21 22:00:08,557 - WARNING - Número inválido: 55219953327160 - Pular contato
+2025-04-21 22:00:08,568 - WARNING - Número inválido: 55219824712840 - Pular contato
+2025-04-21 22:00:08,578 - WARNING - Número inválido: 55219981194090 - Pular contato
+2025-04-21 22:00:08,590 - WARNING - Número inválido: 55219689331550 - Pular contato
+2025-04-21 22:00:08,607 - WARNING - Número inválido: 55219953103480 - Pular contato
+2025-04-21 22:00:08,622 - WARNING - Número inválido: 55219716306810 - Pular contato
+2025-04-21 22:00:08,639 - WARNING - Número inválido: 55219824334320 - Pular contato
+2025-04-21 22:00:08,648 - WARNING - Número inválido: 55229960517600 - Pular contato
+2025-04-21 22:00:08,664 - WARNING - Número inválido: 55219832045310 - Pular contato
+2025-04-21 22:00:08,674 - WARNING - Número inválido: 55219984499340 - Pular contato
+2025-04-21 22:00:08,684 - WARNING - Número inválido: 55219967714540 - Pular contato
+2025-04-21 22:00:08,700 - WARNING - Número inválido: 55219702436130 - Pular contato
+2025-04-21 22:00:08,716 - WARNING - Número inválido: 55219718376810 - Pular contato
+2025-04-21 22:00:08,729 - WARNING - Número inválido: 55219718376810 - Pular contato
+2025-04-21 22:00:08,748 - WARNING - Número inválido: 55219718376810 - Pular contato
+2025-04-21 22:00:08,761 - WARNING - Número inválido: 55219740494400 - Pular contato
+2025-04-21 22:00:08,776 - WARNING - Número inválido: 55219740494400 - Pular contato
+2025-04-21 22:00:08,798 - WARNING - Número inválido: 55219740494400 - Pular contato
+2025-04-21 22:00:08,815 - WARNING - Número inválido: 55219834760660 - Pular contato
+2025-04-21 22:00:08,833 - WARNING - Número inválido: 55219867690150 - Pular contato
+2025-04-21 22:00:08,870 - WARNING - Número inválido: 55219810735270 - Pular contato
+2025-04-21 22:00:08,895 - WARNING - Número inválido: 55219953870220 - Pular contato
+2025-04-21 22:00:08,923 - WARNING - Número inválido: 55219853684160 - Pular contato
+2025-04-21 22:00:08,945 - WARNING - Número inválido: 55219953327160 - Pular contato
+2025-04-21 22:00:08,965 - WARNING - Número inválido: 55219810735270 - Pular contato
+2025-04-21 22:00:08,984 - WARNING - Número inválido: 55219953870220 - Pular contato
+2025-04-21 22:00:09,004 - WARNING - Número inválido: 55219853684160 - Pular contato
+2025-04-21 22:00:09,023 - WARNING - Número inválido: 55219953327160 - Pular contato
+2025-04-21 22:00:09,042 - WARNING - Número inválido:  - Pular contato
+2025-04-21 22:00:09,060 - WARNING - Número inválido:  - Pular contato
+2025-04-21 22:00:09,081 - WARNING - Número inválido:  - Pular contato
+2025-04-21 22:00:09,101 - WARNING - Número inválido:  - Pular contato
+2025-04-21 22:00:09,125 - WARNING - Número inválido:  - Pular contato
+2025-04-21 22:00:09,145 - WARNING - Número inválido:  - Pular contato
+2025-04-21 22:00:09,168 - WARNING - Número inválido:  - Pular contato
+2025-04-21 22:00:09,187 - WARNING - Número inválido:  - Pular contato
+2025-04-21 22:00:09,208 - WARNING - Número inválido:  - Pular contato
+2025-04-21 22:00:09,227 - WARNING - Número inválido:  - Pular contato
+2025-04-21 22:00:09,246 - WARNING - Número inválido:  - Pular contato
+2025-04-21 22:00:09,265 - WARNING - Número inválido:  - Pular contato
+2025-04-21 22:00:09,285 - WARNING - Número inválido:  - Pular contato
+2025-04-21 22:00:09,302 - WARNING - Número inválido:  - Pular contato
+2025-04-21 22:00:09,322 - WARNING - Número inválido:  - Pular contato
+2025-04-21 22:00:09,343 - WARNING - Número inválido:  - Pular contato
+2025-04-21 22:00:09,365 - WARNING - Número inválido:  - Pular contato
+2025-04-21 22:00:09,381 - WARNING - Número inválido:  - Pular contato
+2025-04-21 22:00:09,402 - WARNING - Número inválido:  - Pular contato
+2025-04-21 22:00:09,424 - WARNING - Número inválido:  - Pular contato
+2025-04-21 22:00:09,448 - WARNING - Número inválido:  - Pular contato
+2025-04-21 22:00:09,471 - WARNING - Número inválido:  - Pular contato
+2025-04-21 22:00:09,492 - WARNING - Número inválido:  - Pular contato
+2025-04-21 22:00:09,513 - WARNING - Número inválido:  - Pular contato
+2025-04-21 22:00:09,535 - WARNING - Número inválido:  - Pular contato
+2025-04-21 22:00:09,554 - WARNING - Número inválido:  - Pular contato
+2025-04-21 22:00:09,575 - WARNING - Número inválido:  - Pular contato
+2025-04-21 22:00:09,597 - WARNING - Número inválido:  - Pular contato
+2025-04-21 22:00:09,620 - WARNING - Número inválido:  - Pular contato
+2025-04-21 22:00:09,645 - WARNING - Número inválido:  - Pular contato
+2025-04-21 22:00:09,666 - WARNING - Número inválido:  - Pular contato
+2025-04-21 22:00:09,685 - WARNING - Número inválido:  - Pular contato
+2025-04-21 22:00:11,849 - INFO - Processo concluído - Enviadas: 0, Erros: 66
+2025-04-21 22:12:20,173 - ERROR - Request was failed with status code: 401. Data: 
+2025-04-21 22:55:15,419 - INFO - Usuário Mateus logado com sucesso
+2025-04-24 18:14:43,673 - INFO - Arquivo carregado: C:/Users/pjota/OneDrive/Área de Trabalho/CalujeSender/modelo_contatos.xlsx com 2 contatos
+2025-04-24 18:15:07,932 - INFO - Arquivo carregado: C:/Users/pjota/OneDrive/Área de Trabalho/CalujeSender/modelo_contatos.xlsx com 2 contatos
+2025-04-24 18:15:22,243 - INFO - Aguardando login no WhatsApp Web...
+2025-04-24 21:04:28,500 - INFO - Arquivo carregado: C:/Users/pjota/OneDrive/Área de Trabalho/CalujeSender/modelo_contatos.xlsx com 2 contatos
+2025-04-24 21:04:58,225 - INFO - Aguardando login no WhatsApp Web...
+2025-04-24 21:05:38,118 - INFO - Iniciando envio de mensagens...
+2025-04-24 21:05:44,673 - INFO - Mensagem enviada para 24999085430 (Mateus)
+2025-04-24 21:05:53,736 - INFO - Mensagem enviada para 24999849127 (Mãe)
+2025-04-24 21:05:58,922 - INFO - Processo concluído - Enviadas: 2, Erros: 0
+2025-04-24 21:06:29,845 - INFO - Arquivo carregado: C:/Users/pjota/OneDrive/Área de Trabalho/CalujeSender/modelo_contatos.xlsx com 2 contatos
+2025-04-24 21:06:36,966 - ERROR - Erro na API ao enviar para 24999085430: 401 Client Error: Unauthorized for url: https://graph.facebook.com/v18.0/dnjkdnskjnjcnj/messages
+2025-04-24 21:06:37,676 - ERROR - Erro na API ao enviar para 24999849127: 401 Client Error: Unauthorized for url: https://graph.facebook.com/v18.0/dnjkdnskjnjcnj/messages
+2025-04-24 21:06:38,194 - INFO - Processo concluído - Enviadas: 0, Erros: 2
+2025-04-24 21:42:03,225 - INFO - Arquivo carregado: C:/Users/pjota/OneDrive/Área de Trabalho/CalujeSender/modelo_contatos.xlsx com 2 contatos
+2025-04-24 21:42:19,890 - INFO - Aguardando login no WhatsApp Web...
+2025-04-24 21:43:29,451 - INFO - Iniciando envio de mensagens...
+2025-04-24 21:44:01,064 - ERROR - Erro ao enviar para 24999085430: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF69198EE65+16773]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6918EF130+402672]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF691BE4BDA+1818314]
+	(No symbol) [0x00007FF691727B86]
+	(No symbol) [0x00007FF691727E6B]
+	(No symbol) [0x00007FF691768C77]
+	(No symbol) [0x00007FF691748F0F]
+	(No symbol) [0x00007FF69171DF8D]
+	(No symbol) [0x00007FF691766658]
+	(No symbol) [0x00007FF691748C33]
+	(No symbol) [0x00007FF69171D4D6]
+	(No symbol) [0x00007FF69171CA82]
+	(No symbol) [0x00007FF69171D303]
+	(No symbol) [0x00007FF69181060D]
+	(No symbol) [0x00007FF69181D642]
+	(No symbol) [0x00007FF691815673]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF691A69BAA+265882]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6918FC581+457025]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6918F5834+429044]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6918F5983+429379]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6918E7486+370758]
+	BaseThreadInitThunk [0x00007FF8C121257D+29]
+	RtlUserThreadStart [0x00007FF8C2FCAF08+40]
+
+2025-04-24 22:04:07,713 - INFO - Arquivo carregado: C:/Users/pjota/OneDrive/Área de Trabalho/CalujeSender/modelo_contatos.xlsx com 2 contatos
+2025-04-24 22:04:38,106 - INFO - Aguardando login no WhatsApp Web...
+2025-04-24 22:05:08,507 - INFO - Iniciando envio de mensagens...
+2025-04-24 22:05:08,542 - ERROR - Erro inesperado: 'Coluna do número'
+2025-04-24 22:05:18,550 - INFO - Arquivo carregado: C:/Users/pjota/OneDrive/Área de Trabalho/CalujeSender/modelo_contatos.xlsx com 2 contatos
+2025-04-24 22:05:20,790 - INFO - Arquivo carregado: C:/Users/pjota/OneDrive/Área de Trabalho/CalujeSender/modelo_contatos.xlsx com 2 contatos
+2025-04-24 22:06:32,813 - INFO - Arquivo carregado: C:/Users/pjota/OneDrive/Área de Trabalho/CalujeSender/modelo_contatos.xlsx com 2 contatos
+2025-04-24 22:06:45,650 - INFO - Aguardando login no WhatsApp Web...
+2025-04-24 22:07:40,162 - INFO - Iniciando envio de mensagens...
+2025-04-24 22:07:50,738 - INFO - Mensagem enviada para 24999085430 (Mateus)
+2025-04-24 22:08:04,703 - INFO - Mensagem enviada para 24999849127 (Mãe)
+2025-04-24 22:08:10,185 - INFO - Processo concluído - Enviadas: 2, Erros: 0
+2025-04-24 22:42:57,706 - INFO - Arquivo carregado: C:/Users/pjota/OneDrive/Área de Trabalho/CalujeSender/modelo_contatos.xlsx com 2 contatos
